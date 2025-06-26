@@ -2,7 +2,7 @@
 
 This is a **Content-Based Movie Recommender System** that suggests movies similar to the one you select. It uses **Natural Language Processing (NLP)** techniques to analyze movie metadata and return recommendations based on cosine similarity.
 
-![System Screenshot]((https://github.com/Rajas-Wanikar/Movie-Recommendation-System/blob/main/Image_of_the_system.png))
+![System Screenshot](https://github.com/Rajas-Wanikar/Movie-Recommendation-System/blob/main/Image_of_the_system.png)
 
 ---
 
